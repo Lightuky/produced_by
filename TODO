@@ -1,0 +1,8 @@
+=== TODO ===
+-	Add Icon field to copyrights
+-	Show the copyright when image is displayed
+  +	It doesnt show a picture yet, but it does show the name of the copyright
+
+=== Bugs ===
+-	We don't check if the CR url has 'http://' (or is this a TODO?)
+-	Maybe: Cancel buttons in Admin Panel

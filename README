@@ -1,0 +1,44 @@
+Copyrights plugin for Piwigo Web Gallery
+========================================
+
++-----------------------------------------------------------------+
+| Author: Johan Commelin                                          |
+| Email:  j.commelin@deltawerken.org                              |
+| URL:    http://www.watergallery.nl/piwigo/plugins/copyrights/   |
++-----------------------------------------------------------------+
+
+Table of Contents
+1. Rationale
+2. Installation
+3. Managing copyrights
+  3.1 Creating copyrights
+  3.2 Editing copyrights
+
+
+1. Rationale
+The Copyrights plugin is intended for Piwigo users who want to protect their
+work with copyrights. The plugin comes with an administration area where
+several copyrights can be created. When these copyrights are created, they can
+be added to media elements of Piwigo via drop down menus (e.g. in the Batch
+Manager)
+
+
+2. Installation
+To install the Copyrights plugin, go to the plugin management in the
+administration area of your Piwigo install.
+* Administration -> Plugins -> Manage -> Other plugins available
+Then search for 'Copyrights' and click 'Install'. Afterwards go to your plugin
+list and install and activate the plugin.
+* Search: 'Copyrights' -> Install -> Plugins list -> Install -> Activate
+
+
+3. Managing copyrights
+To manage (create or edit) copyrights, go to the plugin management in the
+administration area of your Piwigo install, and click the Copyrights plugin.
+This will give you a page where you can manage your copyrights.
+
+  3.1 Creating copyrights
+TODO
+
+  3.2 Editing copyrights
+TODO
